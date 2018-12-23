@@ -6,6 +6,7 @@ public class HotelResponse {
     private String hotelName;
     private double fare;
     private String[] amenities;
+    private int rate;
 
     public String getProviderName() {
         return providerName;
@@ -13,6 +14,14 @@ public class HotelResponse {
 
     public void setProviderName(String providerName) {
         this.providerName = providerName;
+    }
+
+    public int getRate() {
+        return rate;
+    }
+
+    public void setRate(int rate) {
+        this.rate = rate;
     }
 
     public String getHotelName() {

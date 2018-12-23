@@ -1,0 +1,63 @@
+{
+  "bestHotels": [
+    {
+      "hotel_name": "SLS Las Vegas",
+      "rate": "*****",
+      "price": 32.38,
+      "discount": 10,
+      "amenities": [
+        "aa",
+        "bb",
+        "cc",
+        "qqqqqq",
+        "rgrgrg",
+        "sadsad"
+      ]
+    },
+    {
+      "hotel_name": "Hotel Pennsylvania",
+      "rate": "****",
+      "price": 342.38,
+      "discount": 0,
+      "amenities": [
+        "asdasd",
+        "bccb",
+        "cvvc"
+      ]
+    },
+    {
+      "hotel_name": "Palmer House",
+      "rate": "***",
+      "price": 312.38323623112312,
+      "discount": 30,
+      "amenities": [
+        "aqwea",
+        "gggbb",
+        "cbbbc"
+      ]
+    },
+    {
+      "hotel_name": "Hilton Anatole",
+      "rate": "**",
+      "price": 3112.38,
+      "discount": 50,
+      "amenities": [
+        "adsasdfa",
+        "sdfsdfbb",
+        "csdfsdfc"
+      ]
+    },
+    {
+      "hotel_name": "Holiday Inn Macao Cotai Central",
+      "rate": "*",
+      "price": 2.38,
+      "discount": 100,
+      "amenities": [
+        "asdasdaa",
+        "bcccb",
+        "cbbc",
+        "asdasdasd"
+      ]
+    }
+  ]
+}

@@ -1,9 +1,16 @@
 package com.abusair.hotel.response;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.google.gson.annotations.SerializedName;
+
 public class BestHotelResponse {
+    @JsonProperty("hotel")
     private String hotel;
-    private double hotelRate;
+    @JsonProperty("hotel_rate")
+    private int hotelRate;
+    @JsonProperty("hotel_fare")
     private double hotelFare;
+    @JsonProperty("room_amenities")
     private String roomAmenities;
 
     public String getHotel() {
@@ -14,11 +21,11 @@ public class BestHotelResponse {
         this.hotel = hotel;
     }
 
-    public double getHotelRate() {
+    public int getHotelRate() {
         return hotelRate;
     }
 
-    public void setHotelRate(double hotelRate) {
+    public void setHotelRate(int hotelRate) {
         this.hotelRate = hotelRate;
     }
 
