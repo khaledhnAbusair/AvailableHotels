@@ -8,7 +8,7 @@ public class HotelResponse {
     private String hotelName;
     private double fare;
     private String[] amenities;
-    @JsonIgnore
+    //@JsonIgnore
     private int rate;
 
     public String getProviderName() {
