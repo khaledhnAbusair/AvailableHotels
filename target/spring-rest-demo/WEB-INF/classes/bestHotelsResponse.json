@@ -1,0 +1,38 @@
+[
+  {
+    "hotel": "Disney's All-Star Movies Resort",
+    "hotel_rate": 3,
+    "hotel_fare": 32.38,
+    "room_amenities": "kh,as,we,wq"
+  },
+  {
+    "hotel": "Hilton San Francisco Union Square",
+    "hotel_rate": 2,
+    "hotel_fare": 44.12,
+    "room_amenities": "we,cc,wee,wasdq"
+  },
+  {
+    "hotel": "Aquarius Casino Resort",
+    "hotel_rate": 1,
+    "hotel_fare": 1232.38,
+    "room_amenities": "ksadh,asasd,weasd,wasdq"
+  },
+  {
+    "hotel": "zmailovo Hotel",
+    "hotel_rate": 4,
+    "hotel_fare": 342.3875,
+    "room_amenities": "aakh,aaas,wwee,wddq"
+  },
+  {
+    "hotel": "Luxor Las Vegas",
+    "hotel_rate": 5,
+    "hotel_fare": 71.88,
+    "room_amenities": "asdkh,sadas,asdwe,asdwq"
+  },
+  {
+    "hotel": "Paris Las Vegas",
+    "hotel_rate": 0,
+    "hotel_fare": 3.38,
+    "room_amenities": "kaaah,auus,wiie,kkwq"
+  }
+]

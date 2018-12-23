@@ -1,11 +1,14 @@
 package com.abusair.hotel.response;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 public class HotelResponse {
 
     private String providerName;
     private String hotelName;
     private double fare;
     private String[] amenities;
+    @JsonIgnore
     private int rate;
 
     public String getProviderName() {

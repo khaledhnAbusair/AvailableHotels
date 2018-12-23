@@ -1,0 +1,17 @@
+com\abusair\hotel\config\AppConfig.class
+com\abusair\hotel\request\HotelRequest.class
+com\abusair\hotel\request\BestHotelRequest.class
+com\abusair\hotel\response\BestHotelResponse.class
+com\abusair\hotel\request\CrazyHotelRequest.class
+com\abusair\hotel\service\Nothing.class
+com\abusair\hotel\rest\HotelsController.class
+com\abusair\hotel\service\besthotel\BestHotelService.class
+com\abusair\hotel\converters\ResponseConverters.class
+com\abusair\hotel\dao\besthotel\BestHotelDaoImpl$1.class
+com\abusair\hotel\config\SpringMvcDispatcherServletInitializer.class
+com\abusair\hotel\service\besthotel\BestHotelServiceImpl.class
+com\abusair\hotel\dao\besthotel\BestHotelDaoImpl.class
+com\abusair\hotel\dao\Nothing.class
+com\abusair\hotel\response\CrazyHotelResponse.class
+com\abusair\hotel\dao\besthotel\BestHotelDao.class
+com\abusair\hotel\response\HotelResponse.class

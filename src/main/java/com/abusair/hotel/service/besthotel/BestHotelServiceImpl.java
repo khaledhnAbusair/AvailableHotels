@@ -3,15 +3,16 @@ package com.abusair.hotel.service.besthotel;
 import com.abusair.hotel.dao.besthotel.BestHotelDao;
 import com.abusair.hotel.response.HotelResponse;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+@Service
 public class BestHotelServiceImpl implements BestHotelService {
     @Autowired
     private BestHotelDao bestHotelDao;
 
     @Override
-    public List<HotelResponse> getHotels() {
+    public List<HotelResponse> getBestHotels() {
         return bestHotelDao.getBestHotels();
     }
 }

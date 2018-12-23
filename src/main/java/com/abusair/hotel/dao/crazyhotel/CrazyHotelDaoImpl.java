@@ -1,7 +1,6 @@
-package com.abusair.hotel.dao.besthotel;
+package com.abusair.hotel.dao.crazyhotel;
 
 import com.abusair.hotel.converters.ResponseConverters;
-import com.abusair.hotel.response.BestHotelResponse;
 import com.abusair.hotel.response.CrazyHotelResponse;
 import com.abusair.hotel.response.HotelResponse;
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -18,26 +17,25 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Repository
-public class BestHotelDaoImpl implements BestHotelDao {
+public class CrazyHotelDaoImpl implements CrazyHotelDao {
+
     @Autowired
     private ResourceLoader resourceLoader;
-    private List<BestHotelResponse> bestHotelResponses;
     private List<CrazyHotelResponse> crazyHotelResponses;
 
-
     @PostConstruct
-    public void loadBestHotelsResponseFile() throws IOException {
-        Resource resource = resourceLoader.getResource("classpath:bestHotelsResponse.json");
+    public void loadCrazyHotelsResponseFile() throws IOException {
+        Resource resource = resourceLoader.getResource("classpath:crazyHotelsResponse.json");
         File file = resource.getFile();
         ObjectMapper jsonMapper = new ObjectMapper();
-        bestHotelResponses = jsonMapper.readValue(file, new TypeReference<List<BestHotelResponse>>() {
+        crazyHotelResponses = jsonMapper.readValue(file, new TypeReference<List<CrazyHotelResponse>>() {
         });
     }
 
     @Override
-    public List<HotelResponse> getBestHotels() {
+    public List<HotelResponse> getCrazyHotel() {
         List<HotelResponse> hotelResponses = new ArrayList<>();
-        bestHotelResponses.forEach(o -> hotelResponses.add(ResponseConverters.convertBestHotelResponseToHotelResponse(o)));
+        crazyHotelResponses.forEach(o -> hotelResponses.add(ResponseConverters.convertCrazyHotelResponseToHotelResponse(o)));
         return hotelResponses;
     }
 }
