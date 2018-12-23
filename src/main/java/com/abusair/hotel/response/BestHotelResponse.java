@@ -7,7 +7,7 @@ public class BestHotelResponse {
     @JsonProperty("hotel")
     private String hotel;
     @JsonProperty("hotel_rate")
-    private int hotelRate;
+    private Integer hotelRate;
     @JsonProperty("hotel_fare")
     private double hotelFare;
     @JsonProperty("room_amenities")
@@ -21,11 +21,11 @@ public class BestHotelResponse {
         this.hotel = hotel;
     }
 
-    public int getHotelRate() {
+    public Integer getHotelRate() {
         return hotelRate;
     }
 
-    public void setHotelRate(int hotelRate) {
+    public void setHotelRate(Integer hotelRate) {
         this.hotelRate = hotelRate;
     }
 

@@ -8,8 +8,8 @@ public class HotelResponse {
     private String hotelName;
     private double fare;
     private String[] amenities;
-    //@JsonIgnore
-    private int rate;
+    @JsonIgnore
+    private Integer rate;
 
     public String getProviderName() {
         return providerName;
@@ -19,11 +19,11 @@ public class HotelResponse {
         this.providerName = providerName;
     }
 
-    public int getRate() {
+    public Integer getRate() {
         return rate;
     }
 
-    public void setRate(int rate) {
+    public void setRate(Integer rate) {
         this.rate = rate;
     }
 
