@@ -10,6 +10,7 @@ public class HotelDaoImpl implements HotelDao {
 
     @Override
     public List<HotelResponse> getHotels() {
+
         return null;
     }
 }
