@@ -11,12 +11,26 @@ import java.time.ZoneOffset;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
+/**
+ * The RequestConverters class responsible for convert from HotelRequest to BestHotelRequest
+ * or HotelRequest to CrazyHotelRequest
+ *
+ * @author Khaled Absauir
+ * @version 1.0
+ */
 public class RequestConverters {
 
     private RequestConverters() {
 
     }
 
+    /**
+     * Returns a BestHotelRequest.
+     * This method always returns BestHotelRequest,When this applet attempts to convert from hotel request to best hotel request
+     *
+     * @param HotelRequest
+     * @return BestHotelRequest
+     */
     public static BestHotelRequest convertHotelRequestToBestHotelRequest(HotelRequest request) {
         BestHotelRequest bestHotelRequest = new BestHotelRequest();
         bestHotelRequest.setCity(request.getCity());
@@ -26,6 +40,13 @@ public class RequestConverters {
         return bestHotelRequest;
     }
 
+    /**
+     * Returns a CrazyHotelRequest.
+     * This method always returns CrazyHotelRequest,to convert from hotel request to crazy hotel request
+     *
+     * @param HotelRequest
+     * @return CrazyHotelRequest
+     */
     public static CrazyHotelRequest convertHotelRequestToCrazyHotelRequest(HotelRequest request) {
         CrazyHotelRequest crazyHotelRequest = new CrazyHotelRequest();
         crazyHotelRequest.setCity(request.getCity());

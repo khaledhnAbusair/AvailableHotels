@@ -1,4 +1,4 @@
-package com.abusair.hotel;
+package com.abusair.hotel.dao.besthotel;
 
 import com.abusair.hotel.converters.RequestConverters;
 import com.abusair.hotel.converters.ResponseConverters;

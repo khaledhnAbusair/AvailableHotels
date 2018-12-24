@@ -1,4 +1,4 @@
-package com.abusair.hotel.crazyhotel;
+package com.abusair.hotel.dao.crazyhotel;
 
 import com.abusair.hotel.converters.RequestConverters;
 import com.abusair.hotel.converters.ResponseConverters;
