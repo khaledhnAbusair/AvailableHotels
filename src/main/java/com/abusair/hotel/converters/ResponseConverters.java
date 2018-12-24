@@ -14,7 +14,6 @@ import com.abusair.hotel.response.HotelResponse;
 public class ResponseConverters {
 
     private ResponseConverters() {
-
     }
 
     /**

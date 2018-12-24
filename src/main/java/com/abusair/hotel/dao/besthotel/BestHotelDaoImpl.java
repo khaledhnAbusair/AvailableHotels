@@ -20,15 +20,31 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * The BestHotelDaoImpl class responsible for implementing data access layer
+ *
+ * @author Khaled Absauir
+ * @version 1.0
+ */
 @Repository
 public class BestHotelDaoImpl implements BestHotelDao {
     private static final Logger LOGGER = LoggerFactory.getLogger(BestHotelDaoImpl.class);
 
+    /**
+     * The resourceLoader is a class responsible for load class in resource file.
+     */
     @Autowired
     private ResourceLoader resourceLoader;
     private List<BestHotelResponse> bestHotelResponses;
 
-
+    /**
+     * Returns a void.
+     * When this applet attempts to load BestHotels Response File
+     *
+     * @param BestHotelRequest
+     * @return void
+     */
     private void loadBestHotelsResponseFile(BestHotelRequest bestHotelRequest) throws IOException {
         LOGGER.info(bestHotelRequest.toString());
         Resource resource = resourceLoader.getResource("classpath:bestHotelsResponse.json");
@@ -38,6 +54,13 @@ public class BestHotelDaoImpl implements BestHotelDao {
         });
     }
 
+    /**
+     * Returns a list of hotel response.
+     * When this applet attempts to getBestHotels from resource file
+     *
+     * @param HotelRequest
+     * @return List<HotelResponse>
+     */
     @Override
     public List<HotelResponse> getBestHotels(HotelRequest request) {
         List<HotelResponse> hotelResponses = new ArrayList<>();

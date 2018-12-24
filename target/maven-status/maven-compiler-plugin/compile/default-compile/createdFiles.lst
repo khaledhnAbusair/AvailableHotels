@@ -6,9 +6,11 @@ com/abusair/hotel/response/HotelResponse.class
 com/abusair/hotel/service/besthotel/BestHotelService.class
 com/abusair/hotel/request/HotelRequest.class
 com/abusair/hotel/RestServiceApplication.class
+com/abusair/hotel/validator/CheckDateValidator.class
 com/abusair/hotel/dao/crazyhotel/CrazyHotelDao.class
 com/abusair/hotel/exception/HotelErrorResponse.class
 com/abusair/hotel/response/CrazyHotelResponse.class
+com/abusair/hotel/validator/CheckDateFormat.class
 com/abusair/hotel/converters/RequestConverters.class
 com/abusair/hotel/exception/DateTimeFormatException.class
 com/abusair/hotel/dao/besthotel/BestHotelDao.class

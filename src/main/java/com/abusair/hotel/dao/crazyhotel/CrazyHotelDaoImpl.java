@@ -20,14 +20,29 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * The CrazyHotelDaoImpl class responsible for implementing data access layer
+ *
+ * @author Khaled Absauir
+ * @version 1.0
+ */
 @Repository
 public class CrazyHotelDaoImpl implements CrazyHotelDao {
     private static final Logger LOGGER = LoggerFactory.getLogger(CrazyHotelDaoImpl.class);
+    /**
+     * The resourceLoader is a class responsible for load class in resource file.
+     */
     @Autowired
     private ResourceLoader resourceLoader;
     private List<CrazyHotelResponse> crazyHotelResponses;
 
-
+    /**
+     * Returns a void.
+     * When this applet attempts to load Crazy Hotels Response File
+     *
+     * @param CrazyHotelRequest
+     * @return void
+     */
     public void loadCrazyHotelsResponseFile(CrazyHotelRequest crazyHotelRequest) throws IOException {
         LOGGER.info(crazyHotelRequest.toString());
         Resource resource = resourceLoader.getResource("classpath:crazyHotelsResponse.json");
@@ -37,6 +52,13 @@ public class CrazyHotelDaoImpl implements CrazyHotelDao {
         });
     }
 
+    /**
+     * Returns a list of hotel response.
+     * When this applet attempts to get Crazy Hotel from resource file
+     *
+     * @param HotelRequest
+     * @return List<HotelResponse>
+     */
     @Override
     public List<HotelResponse> getCrazyHotel(HotelRequest request) {
         List<HotelResponse> hotelResponses = new ArrayList<>();
