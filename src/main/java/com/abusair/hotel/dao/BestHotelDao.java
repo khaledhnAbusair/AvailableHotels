@@ -1,4 +1,4 @@
-package com.abusair.hotel.dao.besthotel;
+package com.abusair.hotel.dao;
 
 import com.abusair.hotel.request.HotelRequest;
 import com.abusair.hotel.response.HotelResponse;

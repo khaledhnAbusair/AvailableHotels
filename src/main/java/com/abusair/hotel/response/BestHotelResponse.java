@@ -1,7 +1,7 @@
 package com.abusair.hotel.response;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.google.gson.annotations.SerializedName;
+
 
 public class BestHotelResponse {
     @JsonProperty("hotel")

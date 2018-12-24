@@ -1,8 +1,8 @@
 package com.abusair.hotel.service.besthotel;
 
-import com.abusair.hotel.dao.besthotel.BestHotelDao;
 import com.abusair.hotel.request.HotelRequest;
 import com.abusair.hotel.response.HotelResponse;
+import com.abusair.hotel.dao.BestHotelDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
