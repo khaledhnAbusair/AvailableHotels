@@ -40,4 +40,14 @@ public class BestHotelRequest {
     public void setNumberOfAdults(int numberOfAdults) {
         this.numberOfAdults = numberOfAdults;
     }
+
+    @Override
+    public String toString() {
+        return "BestHotelRequest{" +
+                "fromDate=" + fromDate +
+                ", toDate=" + toDate +
+                ", city='" + city + '\'' +
+                ", numberOfAdults=" + numberOfAdults +
+                '}';
+    }
 }

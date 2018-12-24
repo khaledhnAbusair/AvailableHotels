@@ -1,10 +1,17 @@
 package com.abusair.hotel.response;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class CrazyHotelResponse {
+    @JsonProperty("hotel_name")
     private String hotelName;
+    @JsonProperty("rate")
     private String hotelRate;
+    @JsonProperty("price")
     private double price;
+    @JsonProperty("discount")
     private double discount;
+    @JsonProperty("amenities")
     private String[] amenities;
 
     public String getHotelName() {

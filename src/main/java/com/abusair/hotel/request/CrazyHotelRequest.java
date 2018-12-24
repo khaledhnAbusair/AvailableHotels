@@ -1,27 +1,27 @@
 package com.abusair.hotel.request;
 
-import java.time.LocalDate;
+import java.time.Instant;
 
 public class CrazyHotelRequest {
 
-    private LocalDate from;
-    private LocalDate to;
+    private Instant from;
+    private Instant to;
     private String city;
     private int adultsCount;
 
-    public LocalDate getFrom() {
+    public Instant getFrom() {
         return from;
     }
 
-    public void setFrom(LocalDate from) {
+    public void setFrom(Instant from) {
         this.from = from;
     }
 
-    public LocalDate getTo() {
+    public Instant getTo() {
         return to;
     }
 
-    public void setTo(LocalDate to) {
+    public void setTo(Instant to) {
         this.to = to;
     }
 
@@ -39,5 +39,15 @@ public class CrazyHotelRequest {
 
     public void setAdultsCount(int adultsCount) {
         this.adultsCount = adultsCount;
+    }
+
+    @Override
+    public String toString() {
+        return "CrazyHotelRequest{" +
+                "from=" + from +
+                ", to=" + to +
+                ", city='" + city + '\'' +
+                ", adultsCount=" + adultsCount +
+                '}';
     }
 }

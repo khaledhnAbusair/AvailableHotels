@@ -1,26 +1,25 @@
 package com.abusair.hotel.request;
 
-import java.time.LocalDate;
-
 public class HotelRequest {
-    private LocalDate fromDate;
-    private LocalDate toDate;
-    private String city;
-    private int numberOfAdults;
 
-    public LocalDate getFromDate() {
+    private String fromDate;
+    private String toDate;
+    private String city;
+    private String numberOfAdults;
+
+    public String getFromDate() {
         return fromDate;
     }
 
-    public void setFromDate(LocalDate fromDate) {
+    public void setFromDate(String fromDate) {
         this.fromDate = fromDate;
     }
 
-    public LocalDate getToDate() {
+    public String getToDate() {
         return toDate;
     }
 
-    public void setToDate(LocalDate toDate) {
+    public void setToDate(String toDate) {
         this.toDate = toDate;
     }
 
@@ -32,11 +31,11 @@ public class HotelRequest {
         this.city = city;
     }
 
-    public int getNumberOfAdults() {
+    public String getNumberOfAdults() {
         return numberOfAdults;
     }
 
-    public void setNumberOfAdults(int numberOfAdults) {
+    public void setNumberOfAdults(String numberOfAdults) {
         this.numberOfAdults = numberOfAdults;
     }
 }
