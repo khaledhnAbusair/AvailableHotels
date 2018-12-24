@@ -1,10 +1,10 @@
-package com.abusair.hotel.dao;
+package com.abusair.hotel.crazyhotel;
 
 import com.abusair.hotel.converters.RequestConverters;
 import com.abusair.hotel.converters.ResponseConverters;
-import com.abusair.hotel.request.BestHotelRequest;
+import com.abusair.hotel.request.CrazyHotelRequest;
 import com.abusair.hotel.request.HotelRequest;
-import com.abusair.hotel.response.BestHotelResponse;
+import com.abusair.hotel.response.CrazyHotelResponse;
 import com.abusair.hotel.response.HotelResponse;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -21,32 +21,31 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Repository
-public class BestHotelDaoImpl implements BestHotelDao {
-    private static final Logger LOGGER = LoggerFactory.getLogger(BestHotelDaoImpl.class);
-
+public class CrazyHotelDaoImpl implements CrazyHotelDao {
+    private static final Logger LOGGER = LoggerFactory.getLogger(CrazyHotelDaoImpl.class);
     @Autowired
     private ResourceLoader resourceLoader;
-    private List<BestHotelResponse> bestHotelResponses;
+    private List<CrazyHotelResponse> crazyHotelResponses;
 
 
-    private void loadBestHotelsResponseFile(BestHotelRequest bestHotelRequest) throws IOException {
-        LOGGER.info(bestHotelRequest.toString());
-        Resource resource = resourceLoader.getResource("classpath:bestHotelsResponse.json");
+    public void loadCrazyHotelsResponseFile(CrazyHotelRequest crazyHotelRequest) throws IOException {
+        LOGGER.info(crazyHotelRequest.toString());
+        Resource resource = resourceLoader.getResource("classpath:crazyHotelsResponse.json");
         File file = resource.getFile();
         ObjectMapper jsonMapper = new ObjectMapper();
-        bestHotelResponses = jsonMapper.readValue(file, new TypeReference<List<BestHotelResponse>>() {
+        crazyHotelResponses = jsonMapper.readValue(file, new TypeReference<List<CrazyHotelResponse>>() {
         });
     }
 
     @Override
-    public List<HotelResponse> getBestHotels(HotelRequest request) {
+    public List<HotelResponse> getCrazyHotel(HotelRequest request) {
         List<HotelResponse> hotelResponses = new ArrayList<>();
         try {
-            loadBestHotelsResponseFile(RequestConverters.convertHotelRequestToBestHotelRequest(request));
+            loadCrazyHotelsResponseFile(RequestConverters.convertHotelRequestToCrazyHotelRequest(request));
         } catch (IOException e) {
             LOGGER.debug(e.getMessage());
         }
-        bestHotelResponses.forEach(o -> hotelResponses.add(ResponseConverters.convertBestHotelResponseToHotelResponse(o)));
+        crazyHotelResponses.forEach(o -> hotelResponses.add(ResponseConverters.convertCrazyHotelResponseToHotelResponse(o)));
         return hotelResponses;
     }
 }
