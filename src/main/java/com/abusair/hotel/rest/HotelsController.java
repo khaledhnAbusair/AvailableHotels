@@ -23,13 +23,16 @@ public class HotelsController {
     @Autowired
     private CrazyHotelService crazyHotelService;
 
-    @GetMapping(value = "/availableHotels",
-            produces = MediaType.APPLICATION_JSON_VALUE)
+    @GetMapping(value = "/availableHotels", produces = MediaType.APPLICATION_JSON_VALUE)
     public List<HotelResponse> availableHotel(HotelRequest request) {
-        if (request.getToDate() == null || request.getFromDate() == null || request.getCity() == null || request.getCity().isEmpty())
-            throw new MissingDataParametersException("Missing Url Data Parameters");
+        validateRequest(request);
         List<HotelResponse> hotelResponses = ListUtils.union(bestHotelService.getBestHotels(request), crazyHotelService.getCrazyHotels(request));
         hotelResponses.sort((o1, o2) -> o2.getRate().compareTo(o1.getRate()));
         return hotelResponses;
+    }
+
+    private void validateRequest(HotelRequest request) {
+        if (request.getToDate() == null || request.getFromDate() == null || request.getCity() == null || request.getCity().isEmpty())
+            throw new MissingDataParametersException("Missing Url Data Parameters");
     }
 }

@@ -13,6 +13,10 @@ import java.time.format.DateTimeParseException;
 
 public class RequestConverters {
 
+    private RequestConverters() {
+
+    }
+
     public static BestHotelRequest convertHotelRequestToBestHotelRequest(HotelRequest request) {
         BestHotelRequest bestHotelRequest = new BestHotelRequest();
         bestHotelRequest.setCity(request.getCity());

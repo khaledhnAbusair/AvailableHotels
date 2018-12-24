@@ -6,6 +6,10 @@ import com.abusair.hotel.response.HotelResponse;
 
 public class ResponseConverters {
 
+    private ResponseConverters() {
+
+    }
+
     public static HotelResponse convertBestHotelResponseToHotelResponse(BestHotelResponse response) {
         HotelResponse hotelResponse = new HotelResponse();
         hotelResponse.setProviderName("Best Hotels");
