@@ -26,7 +26,7 @@ import java.util.Objects;
  */
 @RestController
 @RequestMapping("/api")
-public class HotelsController {
+public class HotelsRestController {
 
     @Autowired
     private List<BaseHotelService> hotelServices;
