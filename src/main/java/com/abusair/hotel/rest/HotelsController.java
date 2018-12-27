@@ -29,7 +29,7 @@ import java.util.Objects;
 public class HotelsController {
 
     @Autowired
-    private List<BaseHotelService> baseHotelServices;
+    private List<BaseHotelService> hotelServices;
 
     /**
      * Returns an List of available HotelResponse that can then be show as json.
@@ -49,7 +49,7 @@ public class HotelsController {
             throw new MissingDataParametersException(Objects.requireNonNull(bindingResult.getFieldError()).getDefaultMessage());
         List<HotelResponse> responses = new ArrayList<>();
 
-        for (BaseHotelService hotelService : baseHotelServices)
+        for (BaseHotelService hotelService : hotelServices)
             responses.addAll(hotelService.getHotels(request));
 
         responses.sort((o1, o2) -> o2.getRate().compareTo(o1.getRate()));
