@@ -5,12 +5,10 @@
     "price": 32.38,
     "discount": 10,
     "amenities": [
-      "aa",
-      "bb",
-      "cc",
-      "qqqqqq",
-      "rgrgrg",
-      "sadsad"
+      "Laundry",
+      "Housekeeping",
+      "Business Services",
+      "Pet Friendly"
     ]
   },
   {
@@ -19,9 +17,10 @@
     "price": 342.38,
     "discount": 0,
     "amenities": [
-      "asdasd",
-      "bccb",
-      "cvvc"
+      "Bar",
+      "Parking Available",
+      "Room Service,24/7 ",
+      "Front Desk"
     ]
   },
   {
@@ -30,9 +29,9 @@
     "price": 312.38323623112312,
     "discount": 30,
     "amenities": [
-      "aqwea",
-      "gggbb",
-      "cbbbc"
+      "Spa",
+      "Front Desk",
+      "Restaurant"
     ]
   },
   {
@@ -41,9 +40,9 @@
     "price": 3112.38,
     "discount": 50,
     "amenities": [
-      "adsasdfa",
-      "sdfsdfbb",
-      "csdfsdfc"
+      "Gym",
+      "Breakfast Available",
+      "Room Service 24/7"
     ]
   },
   {
@@ -52,10 +51,10 @@
     "price": 2.38,
     "discount": 100,
     "amenities": [
-      "asdasdaa",
-      "bcccb",
-      "cbbc",
-      "asdasdasd"
+      "Pet Friendly",
+      "Laundry",
+      "Room Service,24/7",
+      "Gym"
     ]
   }
 ]

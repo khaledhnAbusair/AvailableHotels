@@ -3,36 +3,36 @@
     "hotel": "Disney's All-Star Movies Resort",
     "hotel_rate": 3,
     "hotel_fare": 32.38,
-    "room_amenities": "kh,as,we,wq"
+    "room_amenities": "Air Conditioning,Free WiFi,Pet Friendly"
   },
   {
     "hotel": "Hilton San Francisco Union Square",
     "hotel_rate": 2,
     "hotel_fare": 44.12,
-    "room_amenities": "we,cc,wee,wasdq"
+    "room_amenities": "Air Conditioning,Spa"
   },
   {
     "hotel": "Aquarius Casino Resort",
     "hotel_rate": 1,
     "hotel_fare": 1232.38,
-    "room_amenities": "ksadh,asasd,weasd,wasdq"
+    "room_amenities": "Free WiFi,Pet Friendly,Air Conditioning,Spa"
   },
   {
-    "hotel": "zmailovo Hotel",
+    "hotel": "The Westing Palace, Milan",
     "hotel_rate": 4,
     "hotel_fare": 342.3875,
-    "room_amenities": "aakh,aaas,wwee,wddq"
+    "room_amenities": "Restaurant,Gym,Breakfast Available,Business Services"
   },
   {
     "hotel": "Luxor Las Vegas",
     "hotel_rate": 5,
     "hotel_fare": 71.88,
-    "room_amenities": "asdkh,sadas,asdwe,asdwq"
+    "room_amenities": "Bar,Parking Available,Room Service,24/7, Front Desk"
   },
   {
     "hotel": "Paris Las Vegas",
     "hotel_rate": 0,
     "hotel_fare": 3.38,
-    "room_amenities": "kaaah,auus,wiie,kkwq"
+    "room_amenities": "Laundry,Housekeeping,Business Services,Pet Friendly"
   }
 ]

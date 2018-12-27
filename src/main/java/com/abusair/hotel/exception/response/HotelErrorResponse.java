@@ -1,9 +1,9 @@
-package com.abusair.hotel.exception;
+package com.abusair.hotel.exception.response;
 
 public class HotelErrorResponse {
     private String message;
     private String status;
-    private long timeStamp;
+    private String date;
 
     public String getMessage() {
         return message;
@@ -21,11 +21,11 @@ public class HotelErrorResponse {
         this.status = status;
     }
 
-    public long getTimeStamp() {
-        return timeStamp;
+    public String getDate() {
+        return date;
     }
 
-    public void setTimeStamp(long timeStamp) {
-        this.timeStamp = timeStamp;
+    public void setDate(String date) {
+        this.date = date;
     }
 }

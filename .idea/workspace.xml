@@ -7,23 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba5c066-f474-49f2-8e7f-f3fd156fc0b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/apple.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/apple.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/255ee9fbf4a4a67be13a387435707a1091ebec6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2cb729cd60fe8324fa31322458221dd056f5a106" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4630984e2ef549d0f7caf935ebd348abc799085f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cd203f9bb580749b703c088ddde0ba994127e93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/996d65b7318c06c81be5c2bfe3deadd72addd2d9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/996d65b7318c06c81be5c2bfe3deadd72addd2d9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be855324318d8077bb9419f946ab975df76d7c91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/RestServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/RestServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/ResponseConverters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/ResponseConverters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/available-hotels-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/available-hotels-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/available-hotels.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/available-hotels.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/DateTimeFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/DateTimeFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/handler/HotelRestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/handler/HotelRestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/response/HotelErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/response/HotelErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/BestHotelServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/CrazyHotelServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bestHotelsResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bestHotelsResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/crazyHotelsResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/crazyHotelsResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/RestServiceApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/RestServiceApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/rest/HotelsControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/abusair/hotel/rest/HotelsControllerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,99 +43,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/available_hotels$BestHotelRequestTest.ic" NAME="BestHotelRequestTest Coverage Results" MODIFIED="1545803527153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.abusair.hotel.request.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/available_hotels$All_in_available_hotels.ic" NAME="All in available-hotels Coverage Results" MODIFIED="1545803996039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/available_hotels$RestServiceApplicationTest.ic" NAME="RestServiceApplicationTest Coverage Results" MODIFIED="1545755291450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.abusair.hotel.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/available_hotels$BestHotelDaoImplTest_givenValidValidHotelRequest_WhenGetBestHotels_ThenListOfHotelResponseWillBeReturned.ic" NAME="BestHotelDaoImplTest.givenValidValidHotelRequest_WhenGetBestHotels_ThenListOfHotelResponseWillBeReturned Coverage Results" MODIFIED="1545802139790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.abusair.hotel.dao.besthotel.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/available_hotels$All_in_available_hotels__1_.ic" NAME="All in available-hotels (1) Coverage Results" MODIFIED="1545804395976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/available_hotels$HotelsControllerTest_testAvailableHotels.ic" NAME="HotelsControllerTest.testAvailableHotels Coverage Results" MODIFIED="1545770490785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.abusair.hotel.rest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/available_hotels$All_in_available_hotels__2_.ic" NAME="All in available-hotels (2) Coverage Results" MODIFIED="1545804611532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="197" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="20" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="29" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/RestServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="20" selection-start-line="20" selection-end-line="26" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="22" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="46" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -135,7 +85,13 @@
       <find>gson</find>
       <find>org.apiguardian</find>
       <find>hibernate-validator</find>
+      <find>uriVars</find>
+      <find>Best</find>
+      <find>Crazy</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Crazy</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,21 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/Impl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/CrazyHotelResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/crazyHotelsResponse.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/HotelResponse.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/logging/LoggingHelperImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/bestHotelsResponse.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/BestHotelRequest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/CrazyHotelRequest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/HotelErrorResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/MissingDataParametersException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/DateTimeFormatException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/HotelRestExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/BestHotelResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/config/SpringMvcDispatcherServletInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/resources/error.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/ErrorController.java" />
@@ -166,34 +107,49 @@
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/BestHotelDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/CrazyHotelService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/CrazyHotelDao.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.kt" />
         <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/FakeBestHotelDao.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/BestHotelDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/test/resources/feature/quote.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/HotelControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/HotelsControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/RestServiceApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/HotelsRestControllerTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/validator/validator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/validator/CheckDateFormat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/validator/CheckDateValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/HotelRequest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/RequestConverters.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/ResponseConverters.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/RestServiceApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/RestServiceApplicationTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/resources/integration-test.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/RestServiceApplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/bestHotelsResponse.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/crazyHotelsResponse.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/response/HotelErrorResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/handler/HotelRestExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/bestHotelsResponseTest.josn" />
+        <option value="$PROJECT_DIR$/src/test/resources/bestHotelsResponseTest.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/request/BestHotelRequestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/request/CrazyHotelRequestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/request/HotelRequestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/DateTimeFormatException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/BaseHotelService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abusair/hotel/rest/HotelsControllerTest.java" />
       </list>
     </option>
   </component>
@@ -257,7 +213,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,7 +250,28 @@
               <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
               <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hotel" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
@@ -304,7 +280,7 @@
               <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
               <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hotel" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
@@ -314,38 +290,10 @@
               <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
               <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hotel" type="462c0819:PsiDirectoryNode" />
-              <item name="rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hotel" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hotel" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="besthotel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hotel" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
               <item name="crazyhotel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -353,24 +301,21 @@
               <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="available-hotels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AvailableHotels" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545685383872" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545904638714" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -379,7 +324,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -393,6 +338,7 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/abusair/hotel/config" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
@@ -430,7 +376,7 @@
       <module name="available-hotels" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abusair.hotel.dao.besthotel.*" />
+          <option name="PATTERN" value="com.abusair.hotel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -438,21 +384,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelsControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in available-hotels (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="available-hotels" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.abusair.hotel.dao.besthotel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.abusair.hotel" />
-      <option name="MAIN_CLASS_NAME" value="com.abusair.hotel.HotelsControllerTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelsControllerTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in available-hotels (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="available-hotels" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BestHotelDaoImplTest.givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeFormatExceptionBeReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="available-hotels" />
       <extension name="coverage">
         <pattern>
@@ -460,26 +408,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.abusair.hotel" />
-      <option name="MAIN_CLASS_NAME" value="com.abusair.hotel.HotelsControllerTest" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="PACKAGE_NAME" value="com.abusair.hotel.dao.besthotel" />
+      <option name="MAIN_CLASS_NAME" value="com.abusair.hotel.dao.besthotel.BestHotelDaoImplTest" />
+      <option name="METHOD_NAME" value="givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeFormatExceptionBeReturned" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelsRestControllerTest.teest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CrazyHotelDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="available-hotels" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abusair.hotel.dao.besthotel.*" />
+          <option name="PATTERN" value="com.abusair.hotel.dao.crazyhotel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.abusair.hotel" />
-      <option name="MAIN_CLASS_NAME" value="com.abusair.hotel.HotelsRestControllerTest" />
-      <option name="METHOD_NAME" value="teest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.abusair.hotel.dao.crazyhotel" />
+      <option name="MAIN_CLASS_NAME" value="com.abusair.hotel.dao.crazyhotel.CrazyHotelDaoImplTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -487,9 +433,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RestServiceApplication" />
-        <item itemvalue="JUnit.HotelsRestControllerTest.teest" />
-        <item itemvalue="JUnit.HotelsControllerTest" />
-        <item itemvalue="JUnit.HotelsControllerTest.contextLoads" />
+        <item itemvalue="JUnit.All in available-hotels (2)" />
+        <item itemvalue="JUnit.CrazyHotelDaoImplTest" />
+        <item itemvalue="JUnit.All in available-hotels (1)" />
+        <item itemvalue="JUnit.BestHotelDaoImplTest.givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeFormatExceptionBeReturned" />
       </list>
     </recent_temporary>
   </component>
@@ -508,35 +455,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BestHotelDaoImplTest_myFirstTest - 2018.12.24 at 14h 45m 33s.xml">
-      <configuration name="BestHotelDaoImplTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="CrazyHotelRequestTest - 2018.12.26 at 07h 56m 30s.xml">
+      <configuration name="CrazyHotelRequestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestServiceApplicationTest - 2018.12.24 at 16h 30m 28s.xml">
-      <configuration name="RestServiceApplicationTest" configurationId="JUnit" />
+    <history-entry file="HotelRequestTest - 2018.12.26 at 07h 59m 44s.xml">
+      <configuration name="HotelRequestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestServiceApplicationTest_contextLoads - 2018.12.24 at 17h 11m 07s.xml">
-      <configuration name="RestServiceApplicationTest.contextLoads" configurationId="JUnit" />
+    <history-entry file="All_in_available-hotels - 2018.12.26 at 08h 00m 10s.xml">
+      <configuration name="All in available-hotels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestServiceApplicationTest_contextLoads - 2018.12.24 at 17h 13m 38s.xml">
-      <configuration name="RestServiceApplicationTest.contextLoads" configurationId="JUnit" />
+    <history-entry file="BestHotelDaoImplTest_givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeParseExceptionBeReturned - 2018.12.26 at 08h 03m 07s.xml">
+      <configuration name="BestHotelDaoImplTest.givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeParseExceptionBeReturned" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestServiceApplicationTest_contextLoads - 2018.12.24 at 17h 14m 51s.xml">
-      <configuration name="RestServiceApplicationTest.contextLoads" configurationId="JUnit" />
+    <history-entry file="BestHotelDaoImplTest_givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeParseExceptionBeReturned - 2018.12.26 at 08h 04m 27s.xml">
+      <configuration name="BestHotelDaoImplTest.givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeParseExceptionBeReturned" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestServiceApplicationTest_contextLoads - 2018.12.24 at 17h 15m 27s.xml">
-      <configuration name="RestServiceApplicationTest.contextLoads" configurationId="JUnit" />
+    <history-entry file="BestHotelDaoImplTest_givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeFormatExceptionBeReturned - 2018.12.26 at 08h 04m 47s.xml">
+      <configuration name="BestHotelDaoImplTest.givenInvalidFromDate_WhenGetBestHotels_ThenDateTimeFormatExceptionBeReturned" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestServiceApplicationTest_contextLoads - 2018.12.24 at 17h 16m 13s.xml">
-      <configuration name="RestServiceApplicationTest.contextLoads" configurationId="JUnit" />
+    <history-entry file="All_in_available-hotels_(1) - 2018.12.26 at 08h 06m 50s.xml">
+      <configuration name="All in available-hotels (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestServiceApplicationTest_contextLoads - 2018.12.24 at 17h 17m 48s.xml">
-      <configuration name="RestServiceApplicationTest.contextLoads" configurationId="JUnit" />
+    <history-entry file="CrazyHotelDaoImplTest - 2018.12.26 at 08h 08m 42s.xml">
+      <configuration name="CrazyHotelDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HotelsControllerTest - 2018.12.24 at 17h 49m 36s.xml">
-      <configuration name="HotelsControllerTest" configurationId="JUnit" />
+    <history-entry file="All_in_available-hotels_(2) - 2018.12.26 at 08h 10m 25s.xml">
+      <configuration name="All in available-hotels (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HotelsRestControllerTest_teest - 2018.12.24 at 18h 01m 49s.xml">
-      <configuration name="HotelsRestControllerTest.teest" configurationId="JUnit" />
+    <history-entry file="All_in_available-hotels_(2) - 2018.12.27 at 11h 48m 25s.xml">
+      <configuration name="All in available-hotels (2)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -544,9 +491,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="DB Browser" weight="0.3297568" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29613733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -555,16 +504,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Learn" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46666667" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5106383" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32765958" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.3248227" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.49787235" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32872504" />
@@ -586,37 +537,43 @@
       <window_info anchor="right" id="Database" order="12" />
       <window_info anchor="right" id="Maven Projects" order="13" weight="0.32980332" />
       <window_info anchor="right" id="Copy/Paste" order="14" />
+      <window_info anchor="right" id="Coverage" order="15" side_tool="true" weight="0.3297568" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Learn" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46666667" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32765958" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
-      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32872504" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info id="DB Browser" order="0" weight="0.3297568" />
+      <window_info id="Project Explorer" order="1" />
+      <window_info id="Job Explorer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.29613733" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info id="Capture Tool" order="9" />
+      <window_info id="Learn" order="10" />
+      <window_info id="Web" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Console" order="0" />
+      <window_info anchor="bottom" id="DB Execution Console" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" visible="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.5106383" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39858156" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.3248227" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.49787235" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32907802" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32872504" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" />
+      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="JSON Utils" order="6" weight="0.3297568" />
@@ -628,13 +585,57 @@
       <window_info anchor="right" id="Database" order="12" />
       <window_info anchor="right" id="Maven Projects" order="13" weight="0.32980332" />
       <window_info anchor="right" id="Copy/Paste" order="14" />
+      <window_info anchor="right" id="Coverage" order="15" side_tool="true" weight="0.3297568" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>getHotelRequest().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonMapper.readValue(file, new TypeReference&lt;List&lt;BestHotelResponse&gt;&gt;() {
+        })</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bestHotelDao.getBestHotels(getHotelRequest())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resultActions.andReturn()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resultActions</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.mvc.perform(get(&quot;http://localhost:1015/api/availableHotels?fromDate=2011-12-03&amp;toDate=2013-12-03&amp;city=ADJ&amp;numberOfAdults=1&quot;)).andExpect(status().isOk())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>bindingResult.getFieldError().getDefaultMessage()</expression-string>
         <language-id>JAVA</language-id>
@@ -650,200 +651,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>bindingResult.getAllErrors()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>bindingResult.hasErrors()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((ArrayList) hotelResponses).size</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>java.util.ArrayList</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>jsonMapper.readValue(file, new TypeReference&lt;List&lt;BestHotelResponse&gt;&gt;() {
-        });</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>jsonMapper.readValue(file, new TypeReference&lt;List&lt;BestHotelResponse&gt;&gt;() {
-        })</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>jsonMapper.readValue(file, new TypeReference&lt;List&lt;BestHotelResponse&gt;&gt;() {
-})</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/Nothing.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/javax/annotation/PostConstruct.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/HotelResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/CrazyHotelResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/logging/LoggingHelper.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/logging/LoggingHelperImpl.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="1948" selection-start-line="1948" selection-end-line="1948" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/ZoneOffset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/LocalDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="136" column="19" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/BestHotelRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/CrazyHotelRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/BestHotelResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/config/SpringMvcDispatcherServletInitializer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/config/AppConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/CustomerErrorController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/DateTimeFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/HotelErrorResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/MissingDataParametersException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/HotelRestExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="33" selection-start-line="33" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/FakeBestHotelDao.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/error.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/bestHotelsResponse.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/crazyHotelsResponse.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/feature/quote.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -851,7 +661,312 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/HotelsControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/HotelsControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/HotelsRestControllerTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/constraints/NotNull.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/integration-test.properties" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/crazyHotelsResponse.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar!/org/mockito/BDDMockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/response/HotelErrorResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/handler/HotelRestExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.3.RELEASE/spring-test-5.1.3.RELEASE.jar!/org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="80" column="83" selection-start-line="80" selection-start-column="79" selection-end-line="80" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.3.RELEASE/spring-test-5.1.3.RELEASE.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/A.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.3.RELEASE/spring-test-5.1.3.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.3.RELEASE/spring-test-5.1.3.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestExecutionCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bestHotelsResponse.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/bestHotelsResponseTest.josn" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/bestHotelsResponseTest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/exception/DateTimeFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/CrazyHotelResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/HotelResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/response/BestHotelResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/BestHotelRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/CrazyHotelRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/HotelRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/RequestConverters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/ResponseConverters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/BaseHotelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/BestHotelServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/CrazyHotelServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/validator/CheckDateValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/validator/CheckDateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
@@ -861,192 +976,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/HotelsRestControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/RestServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/rest/HotelsControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/RestServiceApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/request/BestHotelRequestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="119" column="21" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
-          <folding>
-            <marker date="1545678385469" expanded="true" signature="2179:2360" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/validator/CheckDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="135">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/validator/CheckDateValidator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/request/CrazyHotelRequestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/constraints/NotNull.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/request/HotelRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="263">
+          <caret line="33" selection-start-line="24" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/RequestConverters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/converters/ResponseConverters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="24" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/request/HotelRequestTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
-          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDao.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="205">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="37" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/dao/besthotel/BestHotelDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abusair/hotel/dao/crazyhotel/CrazyHotelDaoImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="46" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/besthotel/BestHotelServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="29" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/service/crazyhotel/CrazyHotelServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/rest/HotelsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="20" selection-start-line="20" selection-end-line="26" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abusair/hotel/RestServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+        <state relative-caret-position="511">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

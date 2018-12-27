@@ -1,4 +1,4 @@
-package com.abusair.hotel.service.besthotel;
+package com.abusair.hotel.service;
 
 import com.abusair.hotel.dao.besthotel.BestHotelDao;
 import com.abusair.hotel.request.HotelRequest;
@@ -15,12 +15,13 @@ import java.util.List;
  * @version 1.0
  */
 @Service
-public class BestHotelServiceImpl implements BestHotelService {
+public class BestHotelServiceImpl implements BaseHotelService {
     /**
      * The BestHotelDao is a class responsible for communicate with data access layer.
      */
     @Autowired
     private BestHotelDao bestHotelDao;
+
     /**
      * Returns a list of hotel response.
      * When this applet attempts to get BestHotels Response.
@@ -29,7 +30,7 @@ public class BestHotelServiceImpl implements BestHotelService {
      * @return List<HotelResponse>
      */
     @Override
-    public List<HotelResponse> getBestHotels(HotelRequest request) {
+    public List<HotelResponse> getHotels(HotelRequest request) {
         return bestHotelDao.getBestHotels(request);
     }
 }

@@ -1,4 +1,4 @@
-package com.abusair.hotel.service.crazyhotel;
+package com.abusair.hotel.service;
 
 import com.abusair.hotel.dao.crazyhotel.CrazyHotelDao;
 import com.abusair.hotel.request.HotelRequest;
@@ -15,7 +15,7 @@ import java.util.List;
  * @version 1.0
  */
 @Service
-public class CrazyHotelServiceImpl implements CrazyHotelService {
+public class CrazyHotelServiceImpl implements BaseHotelService {
     /**
      * The CrazyHotelDao is a class responsible for communicate with data access layer.
      */
@@ -30,7 +30,7 @@ public class CrazyHotelServiceImpl implements CrazyHotelService {
      * @return List<HotelResponse>
      */
     @Override
-    public List<HotelResponse> getCrazyHotels(HotelRequest request) {
+    public List<HotelResponse> getHotels(HotelRequest request) {
         return crazyHotelDao.getCrazyHotel(request);
     }
 }

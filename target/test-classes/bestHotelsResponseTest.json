@@ -1,0 +1,14 @@
+[
+  {
+    "hotel": "Disney's All-Star Movies Resort",
+    "hotel_rate": 3,
+    "hotel_fare": 32.38,
+    "room_amenities": "Air Conditioning,Free WiFi,Pet Friendly"
+  },
+  {
+    "hotel": "Hilton San Francisco Union Square",
+    "hotel_rate": 2,
+    "hotel_fare": 44.12,
+    "room_amenities": "Air Conditioning,Spa"
+  }
+]

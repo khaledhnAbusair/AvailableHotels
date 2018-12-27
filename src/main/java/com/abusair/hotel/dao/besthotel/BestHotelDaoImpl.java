@@ -46,7 +46,6 @@ public class BestHotelDaoImpl implements BestHotelDao {
      * @return void
      */
     private void loadBestHotelsResponseFile(BestHotelRequest bestHotelRequest) throws IOException {
-        LOGGER.info(bestHotelRequest.toString());
         Resource resource = resourceLoader.getResource("classpath:bestHotelsResponse.json");
         File file = resource.getFile();
         ObjectMapper jsonMapper = new ObjectMapper();
